@@ -1,0 +1,102 @@
+[
+  {
+    "text": "What is the capital of France?",
+    "choices": ["London", "Paris", "Berlin", "Madrid"],
+    "correct": 1
+  },
+  {
+    "text": "What is the capital of Japan?",
+    "choices": ["Seoul", "Beijing", "Tokyo", "Bangkok"],
+    "correct": 2
+  },
+  {
+    "text": "Which planet is known as the Red Planet?",
+    "choices": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "correct": 1
+  },
+  {
+    "text": "What is the largest ocean on Earth?",
+    "choices": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "correct": 3
+  },
+  {
+    "text": "Who wrote 'Romeo and Juliet'?",
+    "choices": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Jane Austen"],
+    "correct": 1
+  },
+  {
+    "text": "What is the chemical symbol for gold?",
+    "choices": ["Go", "Gd", "Au", "Ag"],
+    "correct": 2
+  },
+  {
+    "text": "How many continents are there on Earth?",
+    "choices": ["5", "6", "7", "8"],
+    "correct": 2
+  },
+  {
+    "text": "What is the smallest prime number?",
+  "choices": ["0", "2", "1", "3"],
+  "correct": 2
+  },
+  {
+    "text": "Which gas do plants absorb from the atmosphere?",
+    "choices": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "correct": 2
+  },
+  {
+    "text": "What is the longest river in the world?",
+    "choices": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+    "correct": 1
+  },
+  {
+    "text": "In which year did World War II end?",
+    "choices": ["1943", "1944", "1945", "1946"],
+    "correct": 2
+  },
+  {
+    "text": "What is the hardest natural substance on Earth?",
+    "choices": ["Gold", "Iron", "Diamond", "Quartz"],
+    "correct": 2
+  },
+  {
+    "text": "Which country is home to the kangaroo?",
+    "choices": ["New Zealand", "South Africa", "Australia", "Brazil"],
+    "correct": 2
+  },
+  {
+    "text": "How many sides does a hexagon have?",
+    "choices": ["5", "6", "7", "8"],
+    "correct": 1
+  },
+  {
+    "text": "What is the largest mammal in the world?",
+    "choices": ["Elephant", "Blue Whale", "Giraffe", "Polar Bear"],
+    "correct": 1
+  },
+  {
+    "text": "Which language has the most native speakers worldwide?",
+    "choices": ["English", "Hindi", "Spanish", "Mandarin Chinese"],
+    "correct": 3
+  },
+  {
+    "text": "What is the freezing point of water in Celsius?",
+    "choices": ["0", "32", "100", "-10"],
+    "correct": 0
+  },
+  {
+    "text": "Who painted the Mona Lisa?",
+    "choices": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+    "correct": 2
+  },
+  {
+    "text": "What is the currency of the United Kingdom?",
+    "choices": ["Euro", "Dollar", "Pound Sterling", "Franc"],
+    "correct": 2
+  },
+  {
+    "text": "How many minutes are in a full day?",
+    "choices": ["1440", "1200", "1800", "960"],
+    "correct": 0
+  }
+]
